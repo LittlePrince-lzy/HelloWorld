@@ -1,8 +1,8 @@
 #include <iostream>
-
+using std::cout;
 
 int main(void)
 {
-   std::cout<<"HHH";
+   cout<<"HHH";
    return 0;
 }
